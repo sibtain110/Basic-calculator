@@ -4,6 +4,7 @@
     background-color: gray;
     margin: 0 auto;
     border-radius: 20px;
+    box-shadow: 5px 10px 10px 5px;
 }
 .display{
     padding: 15px;
@@ -27,8 +28,10 @@ button{
     font-weight: bold;
 }
 .operator{
-    background-color: rgb(247, 39, 39);
+    background-color: orange;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 15px;
+    width: 53px;
+    border-radius: 17px;
 }
